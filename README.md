@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://brianmuenzenmeyer.com/favicon-32x32.png) 
 
-<!--
-**bmuenzenmeyer/bmuenzenmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO! 👋
 
-Here are some ideas to get you started:
+I do a little of everything. Sometimes that’s called being a ~unicorn~ 🦄 or a ~jack-of-all-trades~ 🧰, but with the kids my mind often lands on Sneelock of the Circus 🎪!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Be sure to check out some of my favorite things:
+
+| Thing | Why |
+| - | - |
+| [Sweet Love Adornments](https://sweetloveadornments.etsy.com) | Megan's pretty killer etsy shop! | 
+| [Walls](https://brianmuenzenmeyer.com/walls/) | A digital place to preserve the ❤️ Megan put into our homes. |
+| [Pattern Lab](https://patternlab.io/) | The open source project I was the lead maintainer of for many years. | 
+
+When not online, I am trying to find my ☕.
