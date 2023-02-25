@@ -2,7 +2,7 @@
 
 # HELLO! 👋
 
-## I'm writing a book!
+## I'm writing a book about open source software!
 
 📣 I cannot wait to share more as it comes together— keep up with progress as I make it by subscribing to a tiny newsletter here.
 
@@ -10,10 +10,10 @@
 
 Curious to know where we are in the process?
 
-✅ Proposal Written
-✅ Pitch Accepted
-✅ Draft Complete
-✏️ Editing
+- ✅ Proposal Written
+- ✅ Pitch Accepted
+- ✅ Draft Complete
+- ✏️ Editing
 
 ---
 
