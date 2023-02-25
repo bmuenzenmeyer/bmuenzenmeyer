@@ -8,6 +8,15 @@
 
 📗 [Sign up for updates, and browse existing ones here](https://brianmuenzenmeyer.com/book/)
 
+Curious to know where we are in the process?
+
+✅ Proposal Written
+✅ Pitch Accepted
+✅ Draft Complete
+✏️ Editing
+
+---
+
 I do a little of everything. Sometimes that’s called being a ~unicorn~ 🦄 or a ~jack-of-all-trades~ 🧰, but with the kids my mind often lands on Sneelock of the Circus 🎪!
 
 Be sure to check out some of my favorite things from now and then:
