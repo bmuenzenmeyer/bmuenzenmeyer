@@ -13,7 +13,8 @@ Curious to know where we are in the process?
 - ✅ Proposal Written
 - ✅ Pitch Accepted
 - ✅ Draft Complete
-- ✏️ Editing
+- ✅ Editing Round 1
+- ✏️ Editing Round 2
 
 ---
 
