@@ -14,7 +14,8 @@ Curious to know where we are in the process?
 - ✅ Pitch Accepted
 - ✅ Draft Complete
 - ✅ Editing Round 1
-- ✏️ Editing Round 2
+- ✅ Editing Round 2
+- ✏️ Editing Round 3
 
 ---
 
