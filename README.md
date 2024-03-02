@@ -15,7 +15,8 @@ Curious to know where we are in the process?
 - ✅ Draft Complete
 - ✅ Editing Round 1
 - ✅ Editing Round 2
-- ✏️ Editing Round 3
+- ✅ Editing Round 3
+- 🛑 [ABA ceases publishing new works](https://brianmuenzenmeyer.com/posts/2024-open-source-open-doors/)
 
 ---
 
