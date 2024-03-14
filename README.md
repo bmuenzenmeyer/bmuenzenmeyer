@@ -29,7 +29,7 @@ Be sure to check out some of my favorite things from now and then:
 
 | Thing | Why | Tech Stack | 
 | - | - | - |
-| [makeapullre.quest](https://www.makeapullre.quest/) | A community resource dedicated to improving the quality of writing & ease of assessing code changes. | [next-i18n-starter](https://github.com/bmuenzenmeyer/next-i18n-starter) | 
+| [makeapullre.quest](https://www.makeapullre.quest/) | A community resource dedicated to improving the quality of writing & ease of assessing code changes. Sorta on hiatus. | [next-i18n-starter](https://github.com/bmuenzenmeyer/next-i18n-starter) | 
 | [next-i18n-starter](https://github.com/bmuenzenmeyer/next-i18n-starter) | I wrote this because I found it hard to compose all the demos and docs together into what resembled a fully functioning content-centric website. | [NextJS](https://nextjs.org/) | 
 | [Sweet Love Adornments](https://sweetloveadornments.etsy.com) | Megan's pretty killer etsy shop and [website](https://www.sweetloveadornments.com/) | [NextJS](https://nextjs.org/), [Netlify CMS](https://www.netlifycms.org/) |
 | [Walls](https://brianmuenzenmeyer.com/walls/) | A digital place to preserve the ❤️ Megan put into our homes. | [11ty](https://www.11ty.dev/), [Pantograph](https://github.com/bmuenzenmeyer/pantograph) | 
