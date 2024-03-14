@@ -2,7 +2,9 @@
 
 # HELLO! 👋
 
-## I'm writing a book about open source software!
+## COMING SOON!<a href="/posts/2024-open-source-open-doors/" title="🙃">*</a> My book about [open source software](https://brianmuenzenmeyer.com/hubs/opensource/).
+
+> _“I've written this book as a new entry in the compendium of open source thought. I don't fancy myself a thought-leader and for that we are all fortunate. But it is informed by years of success and failure working with open source software. The advice is honest; the vision bold; the mandate modest.”_
 
 📣 I cannot wait to share more as it comes together— keep up with progress as I make it by subscribing to a tiny newsletter here.
 
@@ -17,6 +19,7 @@ Curious to know where we are in the process?
 - ✅ Editing Round 2
 - ✅ Editing Round 3
 - 🛑 [ABA ceases publishing new works](https://brianmuenzenmeyer.com/posts/2024-open-source-open-doors/)
+- 🗺️ Charting a new course
 
 ---
 
