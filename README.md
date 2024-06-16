@@ -20,6 +20,11 @@ Curious to know where we are in the process?
 - ✅ Editing Round 3
 - 🛑 [ABA ceases publishing new works](https://brianmuenzenmeyer.com/posts/2024-open-source-open-doors/)
 - 🗺️ Charting a new course
+- ✅ Manuscript formatting
+- ✅ Book producer found
+- ✅ Website ready!
+- ✅ Book producer found
+- 🔎 Proofreading
 
 ---
 
