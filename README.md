@@ -23,8 +23,8 @@ Curious to know where we are in the process?
 - ✅ Manuscript formatting
 - ✅ Book producer found
 - ✅ Website ready!
-- ✅ Book producer found
-- 🔎 Proofreading
+- ✅ Proofreading
+- ✅ Forward Written
 
 ---
 
