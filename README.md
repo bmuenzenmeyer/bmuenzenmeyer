@@ -34,7 +34,7 @@ Be sure to check out some of my favorite things from now and then:
 
 | Thing | Why | Tech Stack | 
 | - | - | - |
-| nodejs.org | Helping maintain one of the most consequential websites in our ecosystem. Learning lots. Helping others do the same. My proudest moments are the new contributors, the Grace Hopper attendees, and the [redesign](https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign). | [NextJS](https://nextjs.org/) |
+| [nodejs.org](https://nodejs.org) | Helping maintain one of the most consequential websites in our ecosystem. Learning lots. Helping others do the same. My proudest moments are the new contributors, the Grace Hopper attendees, and the [redesign](https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign). | [NextJS](https://nextjs.org/) |
 | [makeapullre.quest](https://www.makeapullre.quest/) | A _shelved_ community resource dedicated to improving the quality of writing & ease of assessing code changes. Sorta on hiatus. Great URL. | [next-i18n-starter](https://github.com/bmuenzenmeyer/next-i18n-starter) | 
 | [next-i18n-starter](https://github.com/bmuenzenmeyer/next-i18n-starter) | I wrote this because I found it hard to compose all the demos and docs together into what resembled a fully functioning content-centric website. | [NextJS](https://nextjs.org/) | 
 | [Sweet Love Adornments](https://sweetloveadornments.etsy.com) | Megan's pretty killer etsy shop and [website](https://www.sweetloveadornments.com/) | [NextJS](https://nextjs.org/), [Netlify CMS](https://www.netlifycms.org/) |
