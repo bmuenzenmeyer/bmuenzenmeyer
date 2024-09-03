@@ -2,11 +2,47 @@
 
 # HELLO! 👋
 
-## COMING SOON!<a href="https://brianmuenzenmeyer.com/posts/2024-open-source-open-doors/" title="🙃">*</a> My book about [open source software](https://brianmuenzenmeyer.com/hubs/opensource/).
+<p>
+ 🆕 PREORDERS NOW AVAILABLE!<br/>
+ <a href="https://approachableopensource.com/" target="_blank">Approachable Open Source</a>, my brief book about <a href="https://brianmuenzenmeyer.com/hubs/opensource/" target="_blank">the open source movement</a>!<br/>
+ </p>
+
+<p>
+  <a href="https://2b7cef-ac.myshopify.com/products/approachable-open-source-paperback-ebook-bundle" class="book__signup">Preorder at $32 for a paperback and digital bundle!</a>
+</p>
+
+<img src="https://brianmuenzenmeyer.com/img/aos-proof.jpg" alt="A photo of the proof of Approachable Open Source by Brian Muenzenmeyer" width="400"/>
 
 > _“I've written this book as a new entry in the compendium of open source thought. I don't fancy myself a thought-leader and for that we are all fortunate. But it is informed by years of success and failure working with open source software. The advice is honest; the vision bold; the mandate modest.”_
 
-📣 I cannot wait to share more as it comes together— keep up with progress as I make it by subscribing to a tiny newsletter here.
+<em>Approachable Open Source</em> is a perennial, full-spectrum primer on the open source software landscape. Discover the broad connections between you, your team, your company, and your community. Learn how to approach and enable impactful, equitable, and attainable outcomes.
+
+This book is for the curious, the busy, or the eager technologist that wants to level up their relationship with open source software. That might be you! You use open source software today at work or at school, and I promise your talent and perspective, intentionally channeled, is the latent energy many communities need.
+
+Perfect for:
+
+<table>
+  <tr>
+    <th style="width: 150px;">role</th>
+    <th>takeaway</th>
+  </tr>
+  <tr>
+    <td>🎓 students</td>
+    <td>Understand the history, context, and potential of open source software.</td>
+  </tr>
+  <tr>
+    <td>⌨️ developers</td>
+    <td>Engage upstream across a full-spectrum of activities</td>
+  </tr>
+  <tr>
+    <td>🔧 maintainers</td>
+    <td>Level up your repo with purpose. Create self-sustaining community. Avoid burn-out.</td>
+  </tr>
+  <tr>
+    <td>💼 enterprise</td>
+    <td>Start, and scale. Secure open source dependencies and understand legal risks. Unlock your teams' future.</td>
+  </tr>
+</table>
 
 📗 [Sign up for updates, and browse existing ones here](https://brianmuenzenmeyer.com/book/)
 
@@ -22,9 +58,10 @@ Curious to know where we are in the process?
 - 🗺️ Charting a new course
 - ✅ Manuscript formatting
 - ✅ Book producer found
-- ✅ Website ready!
+- ✅ <a href="https://approachableopensource.com">approachableopensource.com built!</a></li>
 - ✅ Proofreading
-- ✅ Forward Written
+- ✅ Foreward Written
+- ✅ <a href="https://brianmuenzenmeyer.com/posts/2024-approachable-open-source/">Off to the printer!</a>
 
 ---
 
