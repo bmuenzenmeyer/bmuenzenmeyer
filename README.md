@@ -11,7 +11,7 @@
   <a href="https://2b7cef-ac.myshopify.com/products/approachable-open-source-paperback-ebook-bundle" class="book__signup">Preorder at $32 for a paperback and digital bundle!</a>
 </p>
 
-<img src="https://brianmuenzenmeyer.com/img/aos-proof.jpg" alt="A photo of the proof of Approachable Open Source by Brian Muenzenmeyer" width="400"/>
+<img src="https://brianmuenzenmeyer.com/img/aos-proof.jpg" alt="A photo of the proof of Approachable Open Source by Brian Muenzenmeyer" width="700"/>
 
 > _“I've written this book as a new entry in the compendium of open source thought. I don't fancy myself a thought-leader and for that we are all fortunate. But it is informed by years of success and failure working with open source software. The advice is honest; the vision bold; the mandate modest.”_
 
