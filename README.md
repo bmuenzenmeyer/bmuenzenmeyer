@@ -8,7 +8,7 @@
  </p>
 
 <p>
-  <a href="https://2b7cef-ac.myshopify.com/products/approachable-open-source-paperback-ebook-bundle" class="book__signup">Preorder at $32 for a paperback and digital bundle!</a>
+  <a href="https://2b7cef-ac.myshopify.com/products/approachable-open-source-paperback-ebook-bundle" class="book__signup">Preorder at <s>$32</s> <code>$27</code> for a paperback and digital bundle!</a>
 </p>
 
 <img src="https://brianmuenzenmeyer.com/img/aos-proof.jpg" alt="A photo of the proof of Approachable Open Source by Brian Muenzenmeyer" width="700"/>
