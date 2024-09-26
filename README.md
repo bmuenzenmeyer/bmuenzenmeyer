@@ -3,15 +3,15 @@
 # HELLO! 👋
 
 <p>
- 🆕 PREORDERS NOW AVAILABLE!<br/>
+ 🆕 NOW AVAILABLE!<br/>
  <a href="https://approachableopensource.com/" target="_blank">Approachable Open Source</a>, my brief book about <a href="https://brianmuenzenmeyer.com/hubs/opensource/" target="_blank">the open source movement</a>!<br/>
  </p>
 
 <p>
-  <a href="https://2b7cef-ac.myshopify.com/products/approachable-open-source-paperback-ebook-bundle" class="book__signup">Preorder at <s>$32</s> <code>$27</code> for a paperback and digital bundle!</a>
+  <a href="https://approachableopensource.com/shop/">Purchase paperback, digital, or bundled.</a>
 </p>
 
-<img src="https://brianmuenzenmeyer.com/img/aos-proof.jpg" alt="A photo of the proof of Approachable Open Source by Brian Muenzenmeyer" width="700"/>
+<img src="https://brianmuenzenmeyer.com/img/20240926_010223.jpg" alt="A photo of Approachable Open Source by Brian Muenzenmeyer" width="700"/>
 
 > _“I've written this book as a new entry in the compendium of open source thought. I don't fancy myself a thought-leader and for that we are all fortunate. But it is informed by years of success and failure working with open source software. The advice is honest; the vision bold; the mandate modest.”_
 
