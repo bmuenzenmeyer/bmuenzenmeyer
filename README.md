@@ -44,25 +44,6 @@ Perfect for:
   </tr>
 </table>
 
-📗 [Sign up for updates, and browse existing ones here](https://brianmuenzenmeyer.com/book/)
-
-Curious to know where we are in the process?
-
-- ✅ Proposal Written
-- ✅ Pitch Accepted
-- ✅ Draft Complete
-- ✅ Editing Round 1
-- ✅ Editing Round 2
-- ✅ Editing Round 3
-- 🛑 [ABA ceases publishing new works](https://brianmuenzenmeyer.com/posts/2024-open-source-open-doors/)
-- 🗺️ Charting a new course
-- ✅ Manuscript formatting
-- ✅ Book producer found
-- ✅ <a href="https://approachableopensource.com">approachableopensource.com built!</a></li>
-- ✅ Proofreading
-- ✅ Foreward Written
-- ✅ <a href="https://brianmuenzenmeyer.com/posts/2024-approachable-open-source/">Off to the printer!</a>
-
 ---
 
 Brian lives in Chanhassen, Minnesota but hails from Manitowoc, where it was always cooler by the lake and is now a fantastic ice-breaker at parties. He has four boys that keep him bald. He does a little of everything. Sometimes that’s called being a unicorn 🦄, duck 🦆, or a jack-of-all-trades 🧰, but he likes to land on the Seussical-form—Sneelock of the Circus 🎪!
