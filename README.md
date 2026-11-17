@@ -2,7 +2,7 @@
 
 **Principal Front End Engineer** · Open Source & Program Management
 
-[Book](https://approachableopensource.com) · [Gorilla](https://gorilla.tube) · [Open Source](https://brianmuenzenmeyer.com/hubs/opensource/) · [Blog](https://brianmuenzenmeyer.com/blog) · [Press](https://brianmuenzenmeyer.com/hubs/press)
+[Book](https://approachableopensource.com) · [Newsletter](https://approachableopensource.com/news/) · [Gorilla](https://gorilla.tube) · [Open Source](https://brianmuenzenmeyer.com/hubs/opensource/) · [Blog](https://brianmuenzenmeyer.com/blog) · [Press](https://brianmuenzenmeyer.com/hubs/press)
 
 Multifaceted community leader, engineer, and bald guy. I maintain the [Node.js website](https://nodejs.org) and wrote [_Approachable Open Source_](https://approachableopensource.com). Give it a read.
 
